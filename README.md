@@ -27,6 +27,4 @@ This is a robust and efficient program designed to manage student records, imple
 * Delete data
 * Quit
 
-**Through these options, users can effectively maintain and organize student records within the system.
-
-Upon selection of an option, the program will display the relevant student data as per the user's request.**
+**Through these options, users can effectively maintain and organize student records within the system. Upon selection of an option, the program will display the relevant student data as per the user's request.**
