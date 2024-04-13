@@ -33,7 +33,7 @@ This is a robust and efficient program designed to manage student records, imple
 
 Console application written in C++. Allows the storage of custom and generated passwords, protected with a simple three-letter-key.
 
-User can direct through a menu:
+# User can direct through a menu:
 
 1. **Decrypt existing password:** Asks user for website and key to decrypt password (if existant) with. Password will be copied to clipboard automatically.
 2. **Generate and encrypt new password:** Asks user for website, generates a 14-symbol long password until user accepts, then asks for a key to encrypt new password with.
